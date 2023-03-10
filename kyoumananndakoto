@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>一日目</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div>HTMLとCSSについて。</div>
+    <div>HTMLでは主にwebサイトが作れます。</div>
+    <div>CSSとは、HTMLじょうで表記した内容を修飾する（文字の色変えたりいろいろ）やつです。</div>
+    <div>2つのサイトで入門編に当たる内容を学習しましたが、Progateというサイトがいちばん学びやすかったです。</div>
+    <div>
+    <a href="https://prog-8.com/dashboard">これがProgateのリンクです</a>
+    </div>
+  </body>
+</html>
